@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋
+
+GitHub Account diverser Coding Projekte der TH Köln am Campus Gummersbach. Instituts- und Laborübergreifend
 
 <!--
 
