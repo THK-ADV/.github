@@ -1,4 +1,6 @@
-## GitHub Account diverser Coding Projekte der TH Köln am Campus Gummersbach. Instituts- und Laborübergreifend
+## 👋
+
+GitHub Account diverser Coding Projekte der TH Köln am Campus Gummersbach. Instituts- und Laborübergreifend
 
 <!--
 
